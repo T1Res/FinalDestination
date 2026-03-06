@@ -1,91 +1,82 @@
-# [목차]
-### 0. [게임명](#게임명--final-destination---1988024-성규민)
-### 1. [컨셉](#컨셉)
-<br>
+📌 Final Destination
 
----------------------------------------  
-<br>
+졸업 작품으로 제작한 3D 퍼즐 어드벤처 게임 프로젝트입니다.
+플레이어는 맵을 탐험하며 다양한 오브젝트와 상호작용하여 퍼즐을 해결하고 목적지에 도달해야 합니다.
 
-# [게임명 : Final Destination] - (1988024 성규민)
-> - 내용  <br>
+🎮 Project Overview
 
-<br>
+프로젝트 이름 : Final Destination
 
----------------------------------------  
-<br>
+개발 기간 : (작성 필요)
 
+개발 인원 : (예: 1명 / 팀 프로젝트라면 팀원 수)
 
-# [컨셉]
->## 메인컨셉 : 좀비 FPS
->- 
+개발 엔진 : Unity
 
->### 서브 컨셉 1 : 생존
->- 
+개발 언어 : C#
 
-<br>
+🛠 Tech Stack
 
----------------------------------------  
-<br>
+Engine : Unity
 
-# [관련 이미지 & 동영상]
+Language : C#
 
-**컨셉 이미지**  <br>
-(이미지) <br>
+Rendering Pipeline : URP (Universal Render Pipeline)
 
-<br>
+🎯 Game Features
+Player Movement System
 
-# [대표 이미지]
+플레이어 캐릭터의 이동 및 기본 조작 기능 구현
 
-(이미지) <br>
-<br>
+Object Interaction
 
-# [컨셉 & 대표이미지 기반 작품묘사]
-> ### 컨셉 기반
->- 
->- 
-<br>
+맵에 존재하는 다양한 오브젝트와 상호작용 가능
 
+Puzzle System
 
-> ### 대표이미지 기반
->- 
+특정 오브젝트를 이용하여 퍼즐을 해결하는 게임 구조
 
----------------------------------------  
-<br>
+Scene Exploration
 
-# [RISE의 구성요소]
-- (내용)
-<br>
+3D 환경에서 자유롭게 이동하며 맵을 탐험
 
->## 1. 메커니즘
+🗂 Project Structure
+FinalDestination
+├── Assets
+│   ├── Scenes
+│   ├── Scripts
+│   ├── Prefabs
+│   └── Materials
+│
+├── Packages
+│
+├── ProjectSettings
+│
+└── README.md
+▶ How to Run
 
->__[도전 과제]__
->- (내용)
->
->__[재미 요소]__
->- (내용)
+Unity Hub 실행
 
-<br>
+Open Project
 
->## 2. 이야기
->__[만들게 된 배경]__
->- (내용)
->
->__[카메라 관점]__ 
->- 1인칭 시점
-<br>
+이 저장소를 클론한 폴더 선택
 
->## 3. 미적요소
->__[디자인]__
->- (내용)
->
->__[음향]__
->- (내용)
-<br>
+Assets/Scenes 폴더의 GameScene 실행
 
->## 4. 기술
->- (내용)
-<br>
+📷 Screenshots
 
----------------------------------------  
-<br>
+(여기에 게임 스크린샷 추가)
 
+예시
+
+![Gameplay Screenshot](image/screenshot1.png)
+🎥 Gameplay Video
+
+(플레이 영상이 있다면 추가)
+
+예시
+
+[Gameplay Video](영상 링크)
+📌 Notes
+
+본 프로젝트는 Unity 기반 졸업 작품으로 제작된 게임 프로젝트입니다.
