@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FxTemporaire
+  - Enemy
+  - FAK
+  - AR1
+  - AR2
+  - Axe
+  - AttackBox
+  - Pills
+  - AmmoBox
+  - SMG
+  - SlowEnemy
+  - SpeedEnemy
+  - Structure
+  - Enemy2
+  - Molotov
+  - Wall
+  - InvisibleWall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Gun
+  - Water
+  - UI
+  - Test
+  - Player
+  - Weapon
+  - HealOBJ
+  - Enemy
+  - Flame
+  - AttackBox
+  - InvisibleWall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Structure
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
