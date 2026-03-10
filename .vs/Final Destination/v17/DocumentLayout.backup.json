@@ -3,24 +3,56 @@
   "WorkspaceRootPath": "D:\\Final Destination\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Destination\\Assets\\Scripts\\Player\\WeaponChange_Fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\WeaponChange_Fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|D:\\Final Destination\\assets\\scripts\\player\\weaponchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\weaponchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|D:\\Final Destination\\assets\\scripts\\enemy\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|d:\\final destination\\assets\\scripts\\player\\mainar1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\mainar1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|D:\\Final Destination\\assets\\scripts\\player\\ar1recoilfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\ar1recoilfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|D:\\Final Destination\\assets\\scripts\\enemy\\zombiechase_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\zombiechase_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|D:\\Final Destination\\assets\\scripts\\enemy\\zombiechase2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\zombiechase2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|D:\\Final Destination\\assets\\scripts\\enemy\\zombiechase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\zombiechase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|d:\\final destination\\assets\\scripts\\fak_anim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fak_anim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|D:\\Final Destination\\assets\\scripts\\player\\smgrecoilfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\smgrecoilfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|D:\\Final Destination\\assets\\scripts\\player\\smg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\smg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|D:\\Final Destination\\assets\\scripts\\player\\pistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\pistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|D:\\Final Destination\\assets\\asset store\\newpunch\\shirtlesszombiefree\\scripts\\freezombie_eyesglow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|solutionrelative:assets\\asset store\\newpunch\\shirtlesszombiefree\\scripts\\freezombie_eyesglow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|D:\\Final Destination\\assets\\scripts\\player\\mainar1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\mainar1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|D:\\Final Destination\\assets\\scripts\\fak_anim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fak_anim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|D:\\Final Destination\\assets\\scripts\\player\\pistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\pistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|D:\\Final Destination\\assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyswarmspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|D:\\Final Destination\\assets\\scripts\\enemy\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|D:\\Final Destination\\assets\\scripts\\fadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -49,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|D:\\Final Destination\\assets\\scripts\\player\\hpbarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\hpbarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|D:\\Final Destination\\assets\\scripts\\player\\weaponchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\weaponchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{779B7EDA-7323-6725-8A56-77D9FD2E4696}|Assembly-CSharp.csproj|D:\\Final Destination\\assets\\scripts\\player\\ammofunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -239,107 +263,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeaponChange_Fix.cs",
+              "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Player\\WeaponChange_Fix.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\WeaponChange_Fix.cs",
+              "ToolTip": "D:\\Final Destination\\Assets\\Scripts\\Player\\WeaponChange_Fix.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\WeaponChange_Fix.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T07:50:18.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "PlayerHP.cs",
-              "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Player\\PlayerHP.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHP.cs",
-              "ToolTip": "D:\\Final Destination\\Assets\\Scripts\\Player\\PlayerHP.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHP.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAwH4AAAAeAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
-              "WhenOpened": "2026-03-07T11:55:35.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SMG.cs",
-              "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Player\\SMG.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\SMG.cs",
-              "ToolTip": "D:\\Final Destination\\Assets\\Scripts\\Player\\SMG.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\SMG.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAIBZwEcAAAC8AAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
-              "WhenOpened": "2026-03-07T11:55:35.591Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PauseMenuFunction.cs",
-              "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\PauseMenuFunction.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenuFunction.cs",
-              "ToolTip": "D:\\Final Destination\\Assets\\Scripts\\PauseMenuFunction.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PauseMenuFunction.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAiwCUAAAAWAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
-              "WhenOpened": "2026-03-07T11:55:35.592Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HPBarControl.cs",
-              "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Player\\HPBarControl.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\HPBarControl.cs",
-              "ToolTip": "D:\\Final Destination\\Assets\\Scripts\\Player\\HPBarControl.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\HPBarControl.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAgAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
-              "WhenOpened": "2026-03-07T11:55:35.592Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Zombie2.cs",
-              "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Enemy\\Zombie2.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Zombie2.cs",
-              "ToolTip": "D:\\Final Destination\\Assets\\Scripts\\Enemy\\Zombie2.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Zombie2.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAiwBEAAAABAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
-              "WhenOpened": "2026-03-07T11:55:35.593Z"
+              "Title": "ZombieChase2.cs",
+              "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Enemy\\ZombieChase2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\ZombieChase2.cs",
+              "ToolTip": "D:\\Final Destination\\Assets\\Scripts\\Enemy\\ZombieChase2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\ZombieChase2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:33:54.323Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Zombie.cs",
-              "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Enemy\\Zombie.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Zombie.cs",
-              "ToolTip": "D:\\Final Destination\\Assets\\Scripts\\Enemy\\Zombie.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Zombie.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAiwEoAAAAAAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
-              "WhenOpened": "2026-03-07T11:55:35.593Z"
+              "Title": "SMGRecoilFunction.cs",
+              "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Player\\SMGRecoilFunction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\SMGRecoilFunction.cs",
+              "ToolTip": "D:\\Final Destination\\Assets\\Scripts\\Player\\SMGRecoilFunction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\SMGRecoilFunction.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:14:49.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "TextFade.cs",
-              "DocumentMoniker": "D:\\Final Destination\\Assets\\TextFade.cs",
-              "RelativeDocumentMoniker": "Assets\\TextFade.cs",
-              "ToolTip": "D:\\Final Destination\\Assets\\TextFade.cs",
-              "RelativeToolTip": "Assets\\TextFade.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABGAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
-              "WhenOpened": "2026-03-07T11:55:35.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FadeController.cs",
-              "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\FadeController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\FadeController.cs",
-              "ToolTip": "D:\\Final Destination\\Assets\\Scripts\\FadeController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\FadeController.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAowE0AAABIAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
-              "WhenOpened": "2026-03-07T11:55:35.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "PlayerDeath.cs",
               "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\PlayerDeath.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerDeath.cs",
@@ -351,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "FAK_Anim.cs",
               "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\FAK_Anim.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FAK_Anim.cs",
@@ -359,12 +324,11 @@
               "RelativeToolTip": "Assets\\Scripts\\FAK_Anim.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T11:55:35.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T11:55:35.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "SlowZombie.cs",
               "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Enemy\\SlowZombie.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\SlowZombie.cs",
@@ -376,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "CarMove.cs",
               "DocumentMoniker": "D:\\Final Destination\\Assets\\CarMove.cs",
               "RelativeDocumentMoniker": "Assets\\CarMove.cs",
@@ -388,20 +352,130 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "ZombieChase.cs",
               "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Enemy\\ZombieChase.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\ZombieChase.cs",
               "ToolTip": "D:\\Final Destination\\Assets\\Scripts\\Enemy\\ZombieChase.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemy\\ZombieChase.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAASwCIAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAD4vwsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T11:55:35.798Z",
+              "WhenOpened": "2026-03-07T11:55:35.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ZombieChase_Fix.cs",
+              "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Enemy\\ZombieChase_Fix.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\ZombieChase_Fix.cs",
+              "ToolTip": "D:\\Final Destination\\Assets\\Scripts\\Enemy\\ZombieChase_Fix.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\ZombieChase_Fix.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T05:57:56.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeaponChange.cs",
+              "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Player\\WeaponChange.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\WeaponChange.cs",
+              "ToolTip": "D:\\Final Destination\\Assets\\Scripts\\Player\\WeaponChange.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\WeaponChange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJcBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T11:55:35.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
+              "Title": "FadeController.cs",
+              "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\FadeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FadeController.cs",
+              "ToolTip": "D:\\Final Destination\\Assets\\Scripts\\FadeController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FadeController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAowE0AAABIAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-03-07T11:55:35.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Zombie.cs",
+              "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Enemy\\Zombie.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Zombie.cs",
+              "ToolTip": "D:\\Final Destination\\Assets\\Scripts\\Enemy\\Zombie.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Zombie.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwDgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T11:55:35.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AR1RecoilFunction.cs",
+              "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Player\\AR1RecoilFunction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\AR1RecoilFunction.cs",
+              "ToolTip": "D:\\Final Destination\\Assets\\Scripts\\Player\\AR1RecoilFunction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\AR1RecoilFunction.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswCgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:14:41.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainAR1.cs",
+              "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Player\\MainAR1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\MainAR1.cs",
+              "ToolTip": "D:\\Final Destination\\Assets\\Scripts\\Player\\MainAR1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\MainAR1.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAIBZwIMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T11:55:35.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TextFade.cs",
+              "DocumentMoniker": "D:\\Final Destination\\Assets\\TextFade.cs",
+              "RelativeDocumentMoniker": "Assets\\TextFade.cs",
+              "ToolTip": "D:\\Final Destination\\Assets\\TextFade.cs",
+              "RelativeToolTip": "Assets\\TextFade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABGAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-03-07T11:55:35.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Zombie2.cs",
+              "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Enemy\\Zombie2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Zombie2.cs",
+              "ToolTip": "D:\\Final Destination\\Assets\\Scripts\\Enemy\\Zombie2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Zombie2.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAiwBEAAAABAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-03-07T11:55:35.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HPBarControl.cs",
+              "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Player\\HPBarControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\HPBarControl.cs",
+              "ToolTip": "D:\\Final Destination\\Assets\\Scripts\\Player\\HPBarControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\HPBarControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAgAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-03-07T11:55:35.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "GameClearFunc.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\GameClearFunc.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\GameClearFunc.cs",
@@ -411,19 +485,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "WeaponChange.cs",
-              "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Player\\WeaponChange.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\WeaponChange.cs",
-              "ToolTip": "D:\\Final Destination\\Assets\\Scripts\\Player\\WeaponChange.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\WeaponChange.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4BAAAkAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
-              "WhenOpened": "2026-03-07T11:55:35.588Z"
+              "DocumentIndex": 9,
+              "Title": "SMG.cs",
+              "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Player\\SMG.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\SMG.cs",
+              "ToolTip": "D:\\Final Destination\\Assets\\Scripts\\Player\\SMG.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\SMG.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAEcAAAC8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T11:55:35.591Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 20,
+              "Title": "PauseMenuFunction.cs",
+              "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\PauseMenuFunction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenuFunction.cs",
+              "ToolTip": "D:\\Final Destination\\Assets\\Scripts\\PauseMenuFunction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseMenuFunction.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAiwCUAAAAWAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-03-07T11:55:35.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayerHP.cs",
+              "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Player\\PlayerHP.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHP.cs",
+              "ToolTip": "D:\\Final Destination\\Assets\\Scripts\\Player\\PlayerHP.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHP.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAwH4AAAAeAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-03-07T11:55:35.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FreeZombie_EyesGlow.cs",
+              "DocumentMoniker": "D:\\Final Destination\\Assets\\Asset Store\\NewPunch\\ShirtlessZombieFree\\Scripts\\FreeZombie_EyesGlow.cs",
+              "RelativeDocumentMoniker": "Assets\\Asset Store\\NewPunch\\ShirtlessZombieFree\\Scripts\\FreeZombie_EyesGlow.cs",
+              "ToolTip": "D:\\Final Destination\\Assets\\Asset Store\\NewPunch\\ShirtlessZombieFree\\Scripts\\FreeZombie_EyesGlow.cs",
+              "RelativeToolTip": "Assets\\Asset Store\\NewPunch\\ShirtlessZombieFree\\Scripts\\FreeZombie_EyesGlow.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwBwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T06:00:40.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
               "Title": "FlameDamageFunction.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\FlameDamageFunction.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\FlameDamageFunction.cs",
@@ -433,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "AmmoFunction.cs",
               "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Player\\AmmoFunction.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\AmmoFunction.cs",
@@ -445,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "EnemySwarmSpawner.cs",
               "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\EnemySwarmSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySwarmSpawner.cs",
@@ -457,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "SceneLoader.cs",
               "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\SceneLoader.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SceneLoader.cs",
@@ -469,19 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainAR1.cs",
-              "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Player\\MainAR1.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\MainAR1.cs",
-              "ToolTip": "D:\\Final Destination\\Assets\\Scripts\\Player\\MainAR1.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\MainAR1.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAiwEgAAACOAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
-              "WhenOpened": "2026-03-07T11:55:35.789Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Pistol.cs",
               "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Player\\Pistol.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Pistol.cs",
@@ -493,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "RadialProgress_Pills.cs",
               "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Player\\RadialProgress_Pills.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\RadialProgress_Pills.cs",
@@ -505,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 70,
               "Title": "FadeController.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\FadeController.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\FadeController.cs",
@@ -515,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "StartSceneManager.cs",
               "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\StartSceneManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\StartSceneManager.cs",
@@ -527,7 +625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 71,
               "Title": "VideoKill.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\VideoKill.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\VideoKill.cs",
@@ -537,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "SpeedZombie.cs",
               "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Enemy\\SpeedZombie.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\SpeedZombie.cs",
@@ -549,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "WeaponIcon.cs",
               "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Player\\WeaponIcon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\WeaponIcon.cs",
@@ -561,7 +659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 63,
               "Title": "EnemySwarmSpawner.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\EnemySwarmSpawner.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\EnemySwarmSpawner.cs",
@@ -571,7 +669,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "FirstPersonController.cs",
               "DocumentMoniker": "D:\\Final Destination\\Assets\\Asset Store\\ModularFirstPersonController\\FirstPersonController\\FirstPersonController.cs",
               "RelativeDocumentMoniker": "Assets\\Asset Store\\ModularFirstPersonController\\FirstPersonController\\FirstPersonController.cs",
@@ -583,7 +681,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "AxeFunction.cs",
               "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Player\\AxeFunction.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\AxeFunction.cs",
@@ -595,7 +693,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "Molotov.cs",
               "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Molotov.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Molotov.cs",
@@ -607,7 +705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "FlameEffectLife.cs",
               "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\FlameEffectLife.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FlameEffectLife.cs",
@@ -619,7 +717,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "TerrainLit.shader",
               "DocumentMoniker": "D:\\Final Destination\\Library\\PackageCache\\com.unity.render-pipelines.universal@16.0.6\\Shaders\\Terrain\\TerrainLit.shader",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@16.0.6\\Shaders\\Terrain\\TerrainLit.shader",
@@ -631,7 +729,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 68,
               "Title": "Bottle.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\Bottle\\Scripts\\Bottle.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\Bottle\\Scripts\\Bottle.cs",
@@ -641,7 +739,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 62,
               "Title": "FlameEffectLife.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\FlameEffectLife.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\FlameEffectLife.cs",
@@ -651,7 +749,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 64,
               "Title": "SceneLoader.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\SceneLoader.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\SceneLoader.cs",
@@ -661,7 +759,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 65,
               "Title": "StartSceneManager.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\StartSceneManager.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\StartSceneManager.cs",
@@ -671,7 +769,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 66,
               "Title": "PauseMenuFunction.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\PauseMenuFunction.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\PauseMenuFunction.cs",
@@ -681,7 +779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 61,
               "Title": "CrossPlatformInputInitialize.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\DualCorStudios\\BasicUI Metal\\Editor\\CrossPlatformInput\\CrossPlatformInputInitialize.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\DualCorStudios\\BasicUI Metal\\Editor\\CrossPlatformInput\\CrossPlatformInputInitialize.cs",
@@ -691,7 +789,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "PistolRecoilFunction.cs",
               "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\Player\\PistolRecoilFunction.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PistolRecoilFunction.cs",
@@ -703,7 +801,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 67,
               "Title": "EnemySpawner.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\EnemySpawner.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\EnemySpawner.cs",
@@ -713,7 +811,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 47,
               "Title": "SlowZombie.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\SlowZombie.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\SlowZombie.cs",
@@ -723,7 +821,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 48,
               "Title": "ZombieChase.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\ZombieChase.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\ZombieChase.cs",
@@ -733,7 +831,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "Zombie.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\Zombie.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\Zombie.cs",
@@ -743,7 +841,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 49,
               "Title": "PlayerHP.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\PlayerHP.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\PlayerHP.cs",
@@ -753,7 +851,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 50,
               "Title": "EnemyAttackFunction.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\EnemyAttackFunction.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\EnemyAttackFunction.cs",
@@ -763,7 +861,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 51,
               "Title": "OBJ_Interaction.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\OBJ_Interaction.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\OBJ_Interaction.cs",
@@ -773,7 +871,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 52,
               "Title": "WeaponChange.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\WeaponChange.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\WeaponChange.cs",
@@ -783,7 +881,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 37,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\Enemy.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\Enemy.cs",
@@ -793,7 +891,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 53,
               "Title": "AmmoFunction.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\AmmoFunction.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\AmmoFunction.cs",
@@ -803,7 +901,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 54,
               "Title": "WeaponIcon.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\WeaponIcon.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\WeaponIcon.cs",
@@ -813,7 +911,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 55,
               "Title": "SMGRecoilFunction.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\SMGRecoilFunction.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\SMGRecoilFunction.cs",
@@ -823,7 +921,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 56,
               "Title": "RadialProgress_Pills.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\RadialProgress_Pills.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\RadialProgress_Pills.cs",
@@ -833,7 +931,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 46,
               "Title": "WeaponIcon.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\WeaponIcon.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\WeaponIcon.cs",
@@ -843,7 +941,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 40,
               "Title": "EnemyAttackFunction.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\EnemyAttackFunction.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\EnemyAttackFunction.cs",
@@ -853,7 +951,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 38,
               "Title": "TransparentManager.cs",
               "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\TransparentManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TransparentManager.cs",
@@ -865,7 +963,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 57,
               "Title": "RadialProgress.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\RadialProgress.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\RadialProgress.cs",
@@ -875,7 +973,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 39,
               "Title": "UIRenderSorting.cs",
               "DocumentMoniker": "D:\\Final Destination\\Assets\\Scripts\\UIRenderSorting.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIRenderSorting.cs",
@@ -887,7 +985,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 58,
               "Title": "ZombieChase2.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\ZombieChase2.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\ZombieChase2.cs",
@@ -897,7 +995,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 45,
               "Title": "OutlineScript.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\OutlineScript.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\OutlineScript.cs",
@@ -907,7 +1005,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 41,
               "Title": "ArmLFunction.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\ArmLFunction.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\ArmLFunction.cs",
@@ -917,7 +1015,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 59,
               "Title": "AR1RecoilFunction.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\AR1RecoilFunction.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\AR1RecoilFunction.cs",
@@ -927,7 +1025,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 42,
               "Title": "ZombieChase2.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\ZombieChase2.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\ZombieChase2.cs",
@@ -937,7 +1035,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 43,
               "Title": "WeaponChange.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\WeaponChange.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\WeaponChange.cs",
@@ -947,7 +1045,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 44,
               "Title": "AmmoFunction.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\AmmoFunction.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\AmmoFunction.cs",
@@ -957,7 +1055,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 60,
               "Title": "PistolRecoilFunction.cs",
               "DocumentMoniker": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\PistolRecoilFunction.cs",
               "ToolTip": "C:\\Users\\gm7890\\Final Destination\\Assets\\Scripts\\PistolRecoilFunction.cs",

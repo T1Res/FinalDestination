@@ -399,7 +399,7 @@ public class WeaponChange : MonoBehaviour
 
 		yield return new WaitForSecondsRealtime(0.0f);
 
-		//GetComponentInChildren<PistolRecoilFunction>().enabled = true;
+		GetComponentInChildren<PistolRecoilFunction>().enabled = true;
 		GetComponentInChildren<SMGRecoilFunction>().enabled = true;
 		GetComponentInChildren<AR1RecoilFunction>().enabled = false;
 

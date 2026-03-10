@@ -15,6 +15,11 @@ public class ZombieChase_Fix : MonoBehaviour
 
 	public bool ParentAttackTrigger;
 
+	private void Awake()
+	{
+		ParentAttackTrigger = true;
+	}
+
 	void Start()
 	{
 		_agent = GetComponent<NavMeshAgent>();

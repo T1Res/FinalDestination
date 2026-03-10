@@ -9,6 +9,7 @@ public class ZombieChase2 : MonoBehaviour
 		if (other.gameObject.CompareTag("Player"))
 		{
 			GetComponentInParent<ZombieChase>().chase = true;
+			GetComponentInParent<ZombieChase_Fix>().chase = true;
 		}
 	}
 }
